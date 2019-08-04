@@ -1,0 +1,14 @@
+
+下载阅读APP，选择网络导入即可
+14个发现书源.txt
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14%E4%B8%AA%E5%8F%91%E7%8E%B0%E4%B9%A6%E6%BA%90.txt
+54个优质书源(14个发现).xml
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54%E4%B8%AA%E4%BC%98%E8%B4%A8%E4%B9%A6%E6%BA%90(14%E4%B8%AA%E5%8F%91%E7%8E%B0).xml
+768个校对书源.txt
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768%E4%B8%AA%E6%A0%A1%E5%AF%B9%E4%B9%A6%E6%BA%90.txt
+868个分组书源(逐个校对的).txt
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/868%E4%B8%AA%E5%88%86%E7%BB%84%E4%B9%A6%E6%BA%90(%E9%80%90%E4%B8%AA%E6%A0%A1%E5%AF%B9%E7%9A%84).txt
+N个书源(长期更新).txt
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt
+N个优质书源.txt
+https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%BC%98%E8%B4%A8%E4%B9%A6%E6%BA%90.txt
