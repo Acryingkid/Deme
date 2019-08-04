@@ -1,0 +1,56 @@
+
+1、新手入门（重点推送的使用）--https://bookfere.com/novice
+2、常用网站
+http://t2.bookdna.cn:8088/，亚马逊正版特价书汇总
+https://bookfere.com书伴，kindle伴侣，从初级到搞机，使用技巧、推送服务一应俱全
+http://mebook.cc/ 我的小书屋，各种书籍，百度云下载完全免费，精品很多，不支持推送
+http://vol.moe/ 漫画推送网站，好到忍不住给作者打钱，再也不用自己折腾漫画了
+http://www.kindlepush.com/main 集思汇，页面很友好，书籍质量参差。更新快，付费推送 暂无杂志、报纸、rss自动推送
+http://www.yidukindle.com/ 易读，书籍质量参差，有终身vip，rss、报纸、杂志推送比较全
+https://www.jiumodiary.com/ 鸠摩搜书，极其强大的电子书搜素引擎 
+https://bbs.feng.com/thread-htm-fid-224.html 威锋ipad电子书板块，书籍质量参差 但是值得长期关注的，鸠摩搜书支持
+http://www.kindlecomic.net/ kindle漫画下载站
+http://www.zoudupai.com/ 走读派，书籍质量参差，没用过 备用
+https://www.cnepub.com/ 很大部分的电子书都是由此流出，epub格式
+http://idesks.me/ 个人书库
+http://readfree.me/gutenberg/ 古登堡 英文免费书籍
+http://haodoo.net/?M=hd&P=welcome 好读 很多冷门小说都能找到 书籍质量非常好的，免费下载
+
+3、自制书籍
+http://www.zxcs8.com/ 知轩藏书，精较txt电子书免费下载
+https://shuge.org/ 书格 将古籍扫描成高清PDF，免费百度云下载
+http://www.freelian.com/110002.html 付费杂志下载网站 杂志很全
+win推荐tepub（应用商店下载）
+4、小技巧
+把PDF发送到Kindle的时候，邮件主题写convert，这样系统会自动把PDF转换成适合Kindle阅读的格式。
+
+5、周边软件
+hper原创软件汇集贴
+https://www.hi-pda.com/forum/vie ... &extra=page%3D1
+
+Kindle Mate
+可以连接kindle导出生词本，笔记，注释，还有一个https://my.clippings.io/#/Kindle萌新养成计划
+1、新手入门（重点推送的使用）--https://bookfere.com/novice
+2、常用网站
+http://t2.bookdna.cn:8088/，亚马逊正版特价书汇总
+https://bookfere.com书伴，kindle伴侣，从初级到搞机，使用技巧、推送服务一应俱全
+http://mebook.cc/ 我的小书屋，各种书籍，百度云下载完全免费，精品很多，不支持推送
+http://vol.moe/ 漫画推送网站，好到忍不住给作者打钱，再也不用自己折腾漫画了
+http://www.kindlepush.com/main 集思汇，页面很友好，书籍质量参差。更新快，付费推送 暂无杂志、报纸、rss自动推送
+http://www.yidukindle.com/ 易读，书籍质量参差，有终身vip，rss、报纸、杂志推送比较全
+https://www.jiumodiary.com/ 鸠摩搜书，极其强大的电子书搜素引擎 
+https://bbs.feng.com/thread-htm-fid-224.html 威锋ipad电子书板块，书籍质量参差 但是值得长期关注的，鸠摩搜书支持
+http://www.kindlecomic.net/ kindle漫画下载站
+http://www.zoudupai.com/ 走读派，书籍质量参差，没用过 备用
+https://www.cnepub.com/ 很大部分的电子书都是由此流出，epub格式
+http://idesks.me/ 个人书库
+http://readfree.me/gutenberg/ 古登堡 英文免费书籍
+http://haodoo.net/?M=hd&P=welcome 好读 很多冷门小说都能找到 书籍质量非常好的，免费下载
+
+3、自制书籍
+http://www.zxcs8.com/ 知轩藏书，精较txt电子书免费下载
+https://shuge.org/ 书格 将古籍扫描成高清PDF，免费百度云下载
+http://www.freelian.com/110002.html 付费杂志下载网站 杂志很全
+win推荐tepub（应用商店下载）
+4、小技巧
+把PDF发送到Kindle的时候，邮件主题写convert，这样系统会自动把PDF转换成适合Kindle阅读的格式。
